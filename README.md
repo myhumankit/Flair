@@ -199,13 +199,5 @@ Formation Pilotes
 
 - Pilotes biplaceurs hand'icare
 - Wanabee pilotes solo
-
-Tourisme lié aux handicaps
----------------------------
-
-- à mixer avec autres projets (montées à cheval, buggybike)
-
-
-
-
+- Documentation formation de Sylvain 
 
