@@ -1,14 +1,16 @@
 Le projet - besoins & exigences
 ===============================
 
-# Le but
---------
+~ Objectif
+----------
 
 | Concevoir, partager et faire évoluer un fauteuil roulant dédié à la pratique du parapente.  
-| Une documentation concernant les pièces et la fabrication de l'ensemble sera disponible en open-source.
+| Partager une documentation concernant les pièces et la fabrication de l'ensemble, disponible en open-source.
+| Permettre l'inovation et l'évolution dans les domaines de la sécurité, du confort et de la performance du matériel
 
-# Les exigences 
----------------
+
+~ Exigences
+-----------
 
 - La version basique du châssis du fauteuil doit être reproductible avec des moyens "basiques" (*soudure, cintrage, visserie*)
 
@@ -28,29 +30,30 @@ Le projet - besoins & exigences
 
 - Le fauteuil doit être équipé d'un système d'absorption de choc
 
-# Les contraintes 
------------------
+~ Contraintes
+-------------
 
-**~ A l'usage**
+**A l'usage**
 
 - Le fauteuil sera utilisé sur des terrains de montagne souvent assez loin de moyens technologiques.
 
-  + Cela implique du matériel robuste, que les pièces avec de fortes contraintes (soumises à casse éventuelles (fusibles)) devraient 
-    pouvoir être réparées avec des moyens basiques (poste à soudure dans un garage mécanique auto par ex.)   
+  + Cela implique du matériel robuste, que les pièces avec de fortes contraintes (soumises à casse éventuelles
+    *(fusibles)*) devraient pouvoir être réparées avec des moyens basiques (poste à soudure dans un garage mécanique
+    auto par ex.)
   + Prévoir des fusibles si besoin. 
 
-**~ Au design**
+**Au design**
 
 - Un design modulaire permettra de faire évoluer les groupes de pièces de manière indépendantes
   
   + Un châssis principal sur lequel est monté un ensemble de pièces (ou d'ensemble) indépendant
   + Permettra de faire progresser le matériel, la sécurité sans remettre en cause tout l'ensemble à chaque évolutions  
 
-**~ A la fabrication**
+**A la fabrication**
 
 - Une version basique du fauteuil devrait pouvoir pouvoir être fabriquée avec des moyens techniques de base et à 
-  faible coût, ceci afin de permettre sa fabrication avec peu de moyens financiers et technologiques et ainsi de fournir l'opportunité de
-  s'équiper au plus grand nombre    
+  faible coût, ceci afin de permettre sa fabrication avec peu de moyens financiers et technologiques et ainsi de fournir
+  l'opportunité de s'équiper au plus grand nombre
   
 
 ... and more ...

@@ -1,64 +1,68 @@
-Flair
-======
+Flair - *A Flying Wheelchair Project*
+=====================================
 
-A Flying Wheelchair Project.
+Ou, **Comment voler quand tu ne marche pas ?**
 
-Comment voler quand tu ne marche pas ?
+La bonne nouvelle c'est que divers moyens ont déjà été mis en œuvres depuis
+1985 pour réaliser le rêve d'Icare, a moindre coût, alliant silence et
+simplicité : **le Parapente** !
 
-La bonne nouvelle est que divers moyens ont déjà été mis en œuvres depuis 1985 pour réaliser le rêve d'Icare. À moindre coût, alliant silence et simplicité: le parapente.
+Qui se décline en différents modes:
 
-Il se décline sous différents modes:
-
-- en biplace passif. C'est 95% des vols, le passager s'envole grâce à un pilote biplaceur qui lui fera découvrir les joies du vol.
+- **Biplace passif**. C'est 95% des vols, le passager s'envole grâce à
+un pilote biplaceur qui lui fera découvrir les joies du vol.
 
  .. image: biplacePassifDecoMontagne.jpg 
  
-- en biplaceur actif. Le pourcentage restant se répartissant selon l'expérience de l'apprenti pilote.
+- **Biplace actif**. Le pourcentage restant se répartissant selon
+l'expérience de l'apprenti pilote.
 
 .. image: biplaceActifEcole.jpg
    :align: left
 .. image: biplaceActifSolo.jpg
 
-- en solo. 
+- **Solo**.
 
 .. image: handiSoloProto.jpg
 
+Et quelques passionnés ont aussi développé quelques types de fauteuils
+roulant permettant de décoller sans une paire de jambes en bon état !!
 
-La mauvaise nouvelle est que depuis ces premières initiatives, la recherche et les temps de développement ont lâchés du terrain. 
+La mauvaise nouvelle est que depuis ces premières initiatives, la
+recherche et les temps de développement ont lâchés du terrain.
 
-La bonne nouvelle est que vous êtes en train de participer au changement ! Venez, c'est largement ouvert.
+**MAIS**, la bonne nouvelle est que vous êtes en train de participer au changement ! Venez, c'est largement ouvert.
 
 .. image: videoSTEAMFabrikarium2018.mov
 
 
-
-
-
+---
 Historique
 -----------
 
-Il y a quelques années, la FFVL émis un cahier des charges relatif à un fauteuil volant.
+Il y a quelques années, la FFVL émis un cahier des charges relatif à un
+fauteuil volant.
 
-FFVL
-.....
+FFVL-
 
-* https://federation.ffvl.fr/handi-parapente
-* https://federation.ffvl.fr/le-projet-handicare
-* http://www.handicaps.sports.gouv.fr/images/lf/lf-ffvl.pdf
-* châssis Backbone, buggy bike
-* http://fauteuil-volant.fr/cahier-des-charges-fauteuil-parapente/* assise/
-* STEAM Fabrikarium Flair - Ajout d'une dimension FLOSS and OSHWA, international 
+- https://federation.ffvl.fr/handi-parapente
+- https://federation.ffvl.fr/le-projet-handicare
+- http://www.handicaps.sports.gouv.fr/images/lf/lf-ffvl.pdf
+- châssis Backbone, buggy bike
+- http://fauteuil-volant.fr/cahier-des-charges-fauteuil-parapente/assise/
+- STEAM Fabrikarium Flair - Ajout d'une dimension FLOSS and OSHWA, international
 
-* https://hackaday.io/project/51267-flair
-* https://myhumankit.org/actualite/week-end-hanvol-a-la-base-ulm-de-cabanac-33/
-* la Petite Rennes
-* Labfab EESAB
-* week-end http://cabane-perchee-peycassou.org/
-* https://github.com/myhumankit/Flair
+- https://hackaday.io/project/51267-flair
+- https://myhumankit.org/actualite/week-end-hanvol-a-la-base-ulm-de-cabanac-33
+- la Petite Rennes
+- Labfab EESAB
+- week-end http://cabane-perchee-peycassou.org
+- https://github.com/myhumankit/Flair
 
 
 Partis pris
-------------
+-----------
+[ Documents sur le projet / parti pris et autre fAQ](https://flair-fauteuil-volant.readthedocs.io)
 
 - Centré sur l'usager et la sécurité passive pour le ou les pilotes.
 - Confort (attente sol, atéro vachage) - poste à cassette - Klaxon, 'Honky' Mumbai represent!
@@ -66,19 +70,18 @@ Partis pris
 - Réplicable - châssis assurant une sécu passive max
 - suffisant (pour une sécurité passive acceptable).
 
-- scenarii d'usage
-  - Montage (pente, sans vent)
+- Scenarii d'usage
+  - Montagne (pente, brise / sans vent)
   - Soaring (plat, vent)
-  - Treuil (plat)
+  - Treuil (plat, vitesse roulage au décollage)
   
-- version stable s'adresse aux 95% des cas d'usage, le pilote biplaceur passif.
+- version stable s'adresse aux 95% des cas d'usage, le pilote biplaceur.
 - en priorité pour la version actuelle de développement, il s'agit d'un train arrière. Deux voies sont étudiées, tricycle et quadricycle, roues libres arrières dans les deux cas.
 - se base sur un jeux de selettes définies, commercialement répandues (Sup'Air Access M & Advance Access 4 pour l'instant).
 - une base de châssis modulaire, qui invite à l'expérimentation.
 - .. image:: arborescence et versionnage
 - versions en arborescence. Chaque branche correspondant à un proto (solo, modulaire, électrique, kayak, gonflable, etc.). Les version sans selettes s'inscrivent ici.
 
-   
 
 Licences
 =========
@@ -121,18 +124,14 @@ Pour la communauté des usagers pilotes
 
 Pointeurs vers la dernière version stable, et les archives versionnées
 
-- Biplaceur passif
-- Biplaceur actif
-- Solo
-
 
 Serious people
 ===============
 
-- Sylvain Han'vol
-- Fauteuil-volant
-- Pat http://cabane-perchee-peycassou.org/
-- flairouze team 
+- Sylvain & Mathieu Han'vol
+- Mathieu - Fauteuil-volant
+- Pat - http://cabane-perchee-peycassou.org/
+- Flairouze team
   - Patrick
   - Vincent
   - Greg
@@ -142,14 +141,14 @@ Serious people
 - Hackaday.io
 - Base ULM de Cabanac
 - Dune du Pyla Pilat
-- Thomas & Unik System crew
-- Serge TraceS Moovly
+- Thomas - Unik System & crew
+- Serge - TraceS Moovly
 - La petite Rennes
 - La Maison du Vélo
 
 - ? BGD
-- ? Advance
 - ? Nervures
+- ? Advance
 - ? Univ Rennes 1
 - ? add yourself here
 
@@ -161,7 +160,6 @@ Nous rejoindre
 - Open Lab My Human Kit
 - STEAM Fabrikarium & Fairs
 - irc, liste de diff ?
-
 
 
 R&D
@@ -184,26 +182,25 @@ R&D
 Économie du projet
 ====================
 
-Nous sommes persuadés qu'il n'y a pas vraiment d'économie autre qu'une 'ultra niche' autour de la conception, de la fabrication de châssis handi'care.
-L'Open Source est un outils parfait pour capitaliser sur les expériences acquises et les développements à venir.
+Nous sommes persuadés qu'il n'y a pas vraiment d'économie autre qu'une
+'ultra niche' autour de la conception, de la fabrication de châssis handi'care.
+L'Open Source est un outil parfait pour capitaliser sur les expériences
+acquises et les développements à venir.
 
   
 Kits
 -----
 
-- mise à dispo d'une recette, d'un plan, de châssis offrant un minimum de sécurité et de conceptions éprouvées.
+- mise à dispo d'une recette, d'un plan, de châssis offrant un minimum
+de sécurité et de conceptions éprouvées.
 - privilégier le mode DIWO/DIY - Do it, and Learn.
 
 Formation Pilotes
 -------------------
 
+- Formation APPI Sylvain
 - Pilotes biplaceurs hand'icare
 - Wanabee pilotes solo
-
-Tourisme lié aux handicaps
----------------------------
-
-- à mixer avec autres projets (montées à cheval, buggybike)
 
 
 
