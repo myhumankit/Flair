@@ -1,27 +1,26 @@
 Liste de matériel
 =================
 
-~ MAIN STRUCTURE
-----------------
+~ Structure principale
+----------------------
 
 .. include:: materials_list_mainstructure.rst
 
 
-
 ------- 
 
 ------- 
 
-~ BACK PROTECTION
------------------
+~ Protection arrière / dossier
+------------------------------
 .. include:: materials_list_backprotection.rst
 
 
 ------- 
 
-------- 
+-------
 
-~ WHEELS
------------------
+~ Roues
+-------
 
 .. include:: materials_list_wheels.rst
