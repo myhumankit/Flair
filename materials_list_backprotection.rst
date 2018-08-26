@@ -1,4 +1,4 @@
-.. image :: ../IMG/materials/back_protection.png
+.. image :: assets/img/materials/back_protection.png
     :width: 40%
     :align: right 
 

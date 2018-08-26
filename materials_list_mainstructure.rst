@@ -1,4 +1,4 @@
-.. image :: ../IMG/materials/main_structure.png
+.. image :: assets/img/materials/main_structure.png
     :width: 40%
     :align: right 
 

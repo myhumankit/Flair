@@ -4,7 +4,7 @@ Liste de matériel
 ~ MAIN STRUCTURE
 ----------------
 
-.. include:: materials_mainstructure.rst
+.. include:: materials_list_mainstructure.rst
 
 
 
@@ -14,11 +14,7 @@ Liste de matériel
 
 ~ BACK PROTECTION
 -----------------
-
-.. include:: materials_backprotection.rst
-
-
-
+.. include:: materials_list_backprotection.rst
 
 
 ------- 
@@ -28,4 +24,4 @@ Liste de matériel
 ~ WHEELS
 -----------------
 
-.. include:: materials_wheels.rst
+.. include:: materials_list_wheels.rst

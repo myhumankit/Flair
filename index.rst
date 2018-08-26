@@ -1,6 +1,3 @@
-.. flair documentation master file, created by
-   sphinx-quickstart on Thu Jun 21 23:25:11 2018.
-
 FLAIR's documentation
 =====================
 
@@ -21,10 +18,10 @@ FLAIR's documentation
 .. toctree::
    :maxdepth: 3 
 
-   source/history
-   source/main_wheels
-   source/free_wheel
-   source/seat
-   source/materials
-   source/faq
+   project_history_needs
+   main_wheels
+   free_wheel
+   seat
+   materials_list
+   faq
 

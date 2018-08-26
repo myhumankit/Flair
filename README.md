@@ -1,5 +1,5 @@
-Flair - *A Flying Wheelchair Project*
-=====================================
+FL'AIR - *A Flying Wheelchair Project*
+======================================
 
 Ou, **Comment voler quand tu ne marche pas ?**
 
@@ -25,13 +25,14 @@ l'expérience de l'apprenti pilote.
 
 .. image: handiSoloProto.jpg
 
-Et quelques passionnés ont aussi développé quelques types de fauteuils
+Et quelques passionnés ont développé différents types de fauteuils
 roulant permettant de décoller sans une paire de jambes en bon état !!
 
-La mauvaise nouvelle est que depuis ces premières initiatives, la
-recherche et les temps de développement ont lâchés du terrain.
+Une mauvaise nouvelle est que depuis ces premières initiatives, la
+recherche et les temps de développement ont un peu lâché du terrain.
 
-**MAIS**, la bonne nouvelle est que vous êtes en train de participer au changement ! Venez, c'est largement ouvert.
+**MAIS**, la bonne nouvelle est que vous êtes en train de participer au
+changement ! Venez, c'est largement ouvert.
 
 .. image: videoSTEAMFabrikarium2018.mov
 
@@ -40,30 +41,27 @@ recherche et les temps de développement ont lâchés du terrain.
 Historique
 -----------
 
-Il y a quelques années, la FFVL émis un cahier des charges relatif à un
-fauteuil volant.
+Il y a quelques années, la FFVL a émis des recommandations relatives à un
+fauteuil roulant/volant.
 
-FFVL-
+- *FFVL*
+  - https://federation.ffvl.fr/handi-parapente
+  - https://federation.ffvl.fr/le-projet-handicare
+  - http://www.handicaps.sports.gouv.fr/images/lf/lf-ffvl.pdf
+  - Châssis Backbone, buggy bike
 
-- https://federation.ffvl.fr/handi-parapente
-- https://federation.ffvl.fr/le-projet-handicare
-- http://www.handicaps.sports.gouv.fr/images/lf/lf-ffvl.pdf
-- châssis Backbone, buggy bike
 - http://fauteuil-volant.fr/cahier-des-charges-fauteuil-parapente/assise/
 - STEAM Fabrikarium Flair - Ajout d'une dimension FLOSS and OSHWA, international
-
 - https://hackaday.io/project/51267-flair
 - https://myhumankit.org/actualite/week-end-hanvol-a-la-base-ulm-de-cabanac-33
 - la Petite Rennes
 - Labfab EESAB
-- week-end http://cabane-perchee-peycassou.org
+- Week-end rencontre à la cabane perchée http://cabane-perchee-peycassou.org
 - https://github.com/myhumankit/Flair
 
 
 Partis pris
 -----------
-[ Documents sur le projet / parti pris et autre fAQ](https://flair-fauteuil-volant.readthedocs.io)
-
 - Centré sur l'usager et la sécurité passive pour le ou les pilotes.
 - Confort (attente sol, atéro vachage) - poste à cassette - Klaxon, 'Honky' Mumbai represent!
 - Confort thermique & mode parking
@@ -128,24 +126,24 @@ Pointeurs vers la dernière version stable, et les archives versionnées
 Serious people
 ===============
 
-- Sylvain & Mathieu Han'vol
-- Mathieu - Fauteuil-volant
-- Pat - http://cabane-perchee-peycassou.org/
+- Sylvain & Mathieu /
+  [han-vol.org](han-vol.org) / [Fauteuil-volant.fr](http://fauteuil-volant.fr)
+- Pat - http://cabane-perchee-peycassou.org
+- My Human Kit
+- Makers asylum Mumbai - STEAM Fabrikarium
+- Temple Pilots
 - Flairouze team
   - Patrick
   - Vincent
   - Greg
-- Temple Pilots
-- Makers asylum Mumbai - STEAM Fabrikarium
-- My Human Kit
+- Thomas - Unik System & crew
+- Christophe - Airbus ProtoSpace
 - Hackaday.io
 - Base ULM de Cabanac
 - Dune du Pyla Pilat
-- Thomas - Unik System & crew
 - Serge - TraceS Moovly
 - La petite Rennes
 - La Maison du Vélo
-
 - ? BGD
 - ? Nervures
 - ? Advance
@@ -156,7 +154,7 @@ Serious people
 Nous rejoindre 
 ---------------
 
-- RDV Handi'care
+- RDV Handi'care -
 - Open Lab My Human Kit
 - STEAM Fabrikarium & Fairs
 - irc, liste de diff ?

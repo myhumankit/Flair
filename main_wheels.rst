@@ -6,7 +6,7 @@ Les roues principales
 | *Une roulette folle permet de diriger le fauteuil au sol.*
 
 
-# Le système d'amortissement actuel
+~ Le système d'amortissement actuel
 -----------------------------------
 
 Le système d'amortissement par contrainte élastique est utilisé dès le début de l'aviation.
@@ -14,20 +14,20 @@ Le système d'amortissement par contrainte élastique est utilisé dès le débu
 L'efficacité du système tel qu'il est utilisé aujourd'hui sur nos fauteuils de vol est fonction 
 du diamètre de la roue.
 
-.. image :: ../IMG/suspension/actual_system_1_R.png
+.. image :: assets/img/suspension/actual_system_1_R.png
     :width: 40%
 
-.. image :: ../IMG/suspension/actual_system_3_R.png
+.. image :: assets/img/suspension/actual_system_3_R.png
     :width: 40%
 
-.. image :: ../IMG/suspension/actual_system_5.jpg
+.. image :: assets/img/suspension/actual_system_5.jpg
     :width: 40%
 
-.. image :: ../IMG/suspension/actual_system_6_R.JPG
+.. image :: assets/img/suspension/actual_system_6_R.JPG
     :width: 40%
 
 
-# Solution envisagée
+~ Solution envisagée
 --------------------
 | **Déporter le bras de levier sur le côté de la structure**
 | *Prise en compte des efforts latéraux en X et mise en place d'un bridage.*
@@ -36,12 +36,12 @@ du diamètre de la roue.
 - L'élastique est aussi maintenu en amont, la plaque / l'ergot de maintient l'empêche de glisser vers l'arrière
 
 
-.. image :: ../IMG/suspension/small_wheel_1.png
+.. image :: assets/img/suspension/small_wheel_1.png
     :width: 45%
 
-.. image :: ../IMG/suspension/small_wheel_2.png
+.. image :: assets/img/suspension/small_wheel_2.png
     :width: 45%
 
-.. image :: ../IMG/suspension/small_wheel_3.png
+.. image :: assets/img/suspension/small_wheel_3.png
     :width: 45%
 
