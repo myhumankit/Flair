@@ -21,7 +21,9 @@ FLAIR's documentation
    project_history_needs
    main_wheels
    free_wheel
+   front_support
    seat
    materials_list
    faq
+   another_in_world
 
