@@ -16,15 +16,19 @@ du diamètre de la roue.
 
 .. image :: assets/img/suspension/actual_system_1_R.png
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_3_R.png
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_5.jpg
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_6_R.JPG
     :width: 40%
+    :class: lightbox-mw
 
 
 ~ Solution envisagée
