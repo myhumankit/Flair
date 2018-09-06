@@ -1,7 +1,7 @@
-D'autres fauteuils, ailleurs dans le monde
-==========================================
+Other Flying Wheels around the world
+====================================
 
-| *Une selection d'autres design*
+| *Autres partiquants et concepts trouvés sur le web*
 
 # **GB** - Flyability.org.uk
 http://www.flyability.org.uk
@@ -30,3 +30,4 @@ http://www.flyability.org.uk/Gallery/pages/OZ-pg-chair.htm
 OZ-pg-chair.jpg
 
 ... still in search ...
+
