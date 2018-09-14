@@ -12,9 +12,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
@@ -155,3 +155,9 @@ texinfo_documents = [
 
 
 # -- Extension configuration -------------------------------------------------
+def setup(app):
+    # Ajoute js/css pour lightbox - https://lokeshdhakar.com/projects/lightbox2/
+    app.add_stylesheet("css/lightbox.css")
+    app.add_javascript("js/lightbox.js")
+    # Js perso
+    app.add_javascript("js/custom-plus.js")

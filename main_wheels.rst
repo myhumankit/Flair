@@ -2,46 +2,47 @@
 Les roues principales
 =====================
 
-| *Les roues peuvent être positionnées à l'avant ou à l'arrière comme sur les train d'avion.*
-| *Une roulette folle permet de diriger le fauteuil au sol.*
+| Les grandes roues sont positionnées à l'avant.
+| Nous décidons de garder le système d'absorption de choc par contrainte élastique. Ce système, utilisé dans les débuts de l'aviation à largement fait ses preuves.
 
 
-~ Le système d'amortissement actuel
------------------------------------
+~ Le système actuel
+-------------------
 
-Le système d'amortissement par contrainte élastique est utilisé dès le début de l'aviation.
-
-L'efficacité du système tel qu'il est utilisé aujourd'hui sur nos fauteuils de vol est fonction 
-du diamètre de la roue.
+L'efficacité du système tel qu'il est utilisé sur nos fauteuils de vol actuels est limité par le diamètre de la roue.
 
 .. image :: assets/img/suspension/actual_system_1_R.png
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_3_R.png
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_5.jpg
     :width: 40%
+    :class: lightbox-mw
 
 .. image :: assets/img/suspension/actual_system_6_R.JPG
     :width: 40%
+    :class: lightbox-mw
 
 
 ~ Solution envisagée
 --------------------
-| **Déporter le bras de levier sur le côté de la structure**
-| *Prise en compte des efforts latéraux en X et mise en place d'un bridage.*
-
-- Une plaque de bridage, soudée à la structure, avec une glissière qui contraint le bras de levier en X
-- L'élastique est aussi maintenu en amont, la plaque / l'ergot de maintient l'empêche de glisser vers l'arrière
+| **Le bras de levier est déporté sur le côté de la structure**
+| *Permet d'utiliser différents types de roues et de diamètres différents. L'efficacité du système ne dépends plus du rayon de la roue*
 
 
 .. image :: assets/img/suspension/small_wheel_1.png
     :width: 45%
+    :class: lightbox-sw
 
 .. image :: assets/img/suspension/small_wheel_2.png
     :width: 45%
+    :class: lightbox-sw
 
 .. image :: assets/img/suspension/small_wheel_3.png
     :width: 45%
+    :class: lightbox-sw
 

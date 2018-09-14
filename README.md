@@ -3,23 +3,22 @@ FL'AIR - *A Flying Wheelchair Project*
 
 Ou, **Comment voler quand tu ne marche pas ?**
 
-La bonne nouvelle c'est que divers moyens ont déjà été mis en œuvres depuis
-1985 pour réaliser le rêve d'Icare, a moindre coût, alliant silence et
-simplicité : **le Parapente** !
+La bonne nouvelle c'est que divers moyens ont déjà été mis en œuvres
+depuis 1985 pour réaliser le rêve d'Icare, a moindre coût, alliant
+silence et simplicité : l **le Parapente** !
 
-Qui se décline en différents modes:
+Il se décline en différents modes:
 
 - **Biplace passif**. C'est 95% des vols, le passager s'envole grâce à
 un pilote biplaceur qui lui fera découvrir les joies du vol.
 
  .. image: biplacePassifDecoMontagne.jpg 
  
-- **Biplace actif**. Le pourcentage restant se répartissant selon
-l'expérience de l'apprenti pilote.
+- **Biplace actif**. Le pilote propose à son passager de participer au vol
+en lui donnant des explications et les commandes à des moments où il peut
+tester le pilotage du parapente en toute sécurité.
 
-.. image: biplaceActifEcole.jpg
-   :align: left
-.. image: biplaceActifSolo.jpg
+.. image: biplaceActifPassagerPilote.jpg
 
 - **Solo**.
 
@@ -28,18 +27,18 @@ l'expérience de l'apprenti pilote.
 Et quelques passionnés ont développé différents types de fauteuils
 roulant permettant de décoller sans une paire de jambes en bon état !!
 
-Une mauvaise nouvelle est que depuis ces premières initiatives, la
-recherche et les temps de développement ont un peu lâché du terrain.
+Malheuresement, depuis ces premières initiatives, la recherche et les
+développements semblent avoir un peu lâché du terrain.
 
-**MAIS**, la bonne nouvelle est que vous êtes en train de participer au
-changement ! Venez, c'est largement ouvert.
+**MAIS**, la bonne nouvelle est que vous êtes en train de participer a
+l'évolution de la sécurité, du confort et de la performance! Venez,
+c'est largement ouvert.
 
 .. image: videoSTEAMFabrikarium2018.mov
 
 
----
 Historique
------------
+----------
 
 Il y a quelques années, la FFVL a émis des recommandations relatives à un
 fauteuil roulant/volant.
@@ -50,7 +49,7 @@ fauteuil roulant/volant.
   - http://www.handicaps.sports.gouv.fr/images/lf/lf-ffvl.pdf
   - Châssis Backbone, buggy bike
 
-- http://fauteuil-volant.fr/cahier-des-charges-fauteuil-parapente/assise/
+- http://fauteuil-volant.fr/cahier-des-charges-fauteuil-parapente/assise
 - STEAM Fabrikarium Flair - Ajout d'une dimension FLOSS and OSHWA, international
 - https://hackaday.io/project/51267-flair
 - https://myhumankit.org/actualite/week-end-hanvol-a-la-base-ulm-de-cabanac-33
@@ -63,52 +62,60 @@ fauteuil roulant/volant.
 Partis pris
 -----------
 - Centré sur l'usager et la sécurité passive pour le ou les pilotes.
-- Confort (attente sol, atéro vachage) - poste à cassette - Klaxon, 'Honky' Mumbai represent!
-- Confort thermique & mode parking
-- Réplicable - châssis assurant une sécu passive max
-- suffisant (pour une sécurité passive acceptable).
+- Confort (attente au sol, attéro vachage) - poste à cassette - Klaxon,
+'Honky' Mumbai represent ! - thermique (cocon chauffant ;)
+- Réplicable et Modulaire pour faciliter l'évolution autonome des différentes
+parties
+- Châssis permettant d'assurer une sécurité passive maximum (soit en lui même,
+soit en permettant d'inclure des éléments de sécurité - airbag)
 
 - Scenarii d'usage
   - Montagne (pente, brise / sans vent)
   - Soaring (plat, vent)
   - Treuil (plat, vitesse roulage au décollage)
   
-- version stable s'adresse aux 95% des cas d'usage, le pilote biplaceur.
-- en priorité pour la version actuelle de développement, il s'agit d'un train arrière. Deux voies sont étudiées, tricycle et quadricycle, roues libres arrières dans les deux cas.
-- se base sur un jeux de selettes définies, commercialement répandues (Sup'Air Access M & Advance Access 4 pour l'instant).
-- une base de châssis modulaire, qui invite à l'expérimentation.
+- Version plutôt stable (4 roues) et mobile, s'adresse aux 95% des cas d'usage :
+pilote biplaceur.
+- En priorité pour la version actuelle de développement, roulettes directionnelles
+à l'arrière.
+- Une base de châssis modulaire, qui invite à l'expérimentation.
+- Qui permet l'utilisation d'un jeux de selettes commercialement répandues
+(Sup'Air Access M & Advance Access 4 pour l'instant), mais avec la possibilité d'utiliser
+n'importe quelle sellette.
+
 - .. image:: arborescence et versionnage
 - versions en arborescence. Chaque branche correspondant à un proto (solo, modulaire, électrique, kayak, gonflable, etc.). Les version sans selettes s'inscrivent ici.
 
 
 Licences
-=========
+---------
 
-- OSHWA, https://www.oshwa.org/definition/french/
+- OSHW, https://www.oshwa.org/definition/french/
 - CERN OHL, https://www.ohwr.org/documents/294
 
 
 BillOfMaterial
-===============
+---------------
 
 Basée le plus possible sur les standards ouverts, interopérables et les plus couramment répandu.
 
-- roues avants
-- roues arrières
-- tubulure
-- accastillage
+- Roues avants
+- Roues arrières
+- Tubulure
+- Accastillage
 
 
 Outils
-=======
+-------
 
+- Privilégier l'assemblage a la soudure
 - soudure ?
 - cintrage ?
 - assemblage par vissage ?
 
 
 Instruction de montage
-=======================
+-----------------------
 
 Pour la communauté des constructeurs
 
@@ -116,7 +123,7 @@ Ici un pointeur vers la dernière version stable
 
 
 Manuel d'utilisation
-=====================
+---------------------
 
 Pour la communauté des usagers pilotes
 
@@ -124,23 +131,23 @@ Pointeurs vers la dernière version stable, et les archives versionnées
 
 
 Serious people
-===============
+---------------
 
-- Sylvain & Mathieu /
-  [han-vol.org](han-vol.org) / [Fauteuil-volant.fr](http://fauteuil-volant.fr)
-- Pat - http://cabane-perchee-peycassou.org
-- My Human Kit
-- Makers asylum Mumbai - STEAM Fabrikarium
-- Temple Pilots
+- Sylvain [han-vol.org](http://han-vol.org) & Mathieu [fauteuil-volant.fr](http://fauteuil-volant.fr)
+- Pat - [Cabane prechée](http://cabane-perchee-peycassou.org)
+- John - [My Human Kit](http://myhumankit.org)
+- Vaibhav - [Makers asylum Mumbai](https://www.makersasylum.com) -
+[STEAM Fabrikarium](https://steam.makersasylum.com/fabrikarium)
+- Avi - [Temple Pilots](http://www.templepilots.com)
 - Flairouze team
   - Patrick
   - Vincent
   - Greg
-- Thomas - Unik System & crew
+- Thomas - [Unik System](https://uniksystemes.com) & crew
 - Christophe - Airbus ProtoSpace
 - Hackaday.io
 - Base ULM de Cabanac
-- Dune du Pyla Pilat
+- Dune du Pyla
 - Serge - TraceS Moovly
 - La petite Rennes
 - La Maison du Vélo
@@ -153,15 +160,13 @@ Serious people
 
 Nous rejoindre 
 ---------------
-
-- RDV Handi'care -
-- Open Lab My Human Kit
+- OpenLab - My Human Kit
 - STEAM Fabrikarium & Fairs
+- Coupe Icare 2019 ?
 - irc, liste de diff ?
 
-
 R&D
-====
+---
 
 - Sellette 
   - point d'accroche en doublon pour centrage attache sellette châssis
@@ -178,7 +183,7 @@ R&D
   - système de freinage
 
 Économie du projet
-====================
+------------------
 
 Nous sommes persuadés qu'il n'y a pas vraiment d'économie autre qu'une
 'ultra niche' autour de la conception, de la fabrication de châssis handi'care.
@@ -187,18 +192,18 @@ acquises et les développements à venir.
 
   
 Kits
------
-
-- mise à dispo d'une recette, d'un plan, de châssis offrant un minimum
+----
+- Mise à dispo d'une recette, d'un plan de châssis offrant un minimum
 de sécurité et de conceptions éprouvées.
-- privilégier le mode DIWO/DIY - Do it, and Learn.
+- Privilégier le mode DIWO/DIY - Do it, and Learn.
 
 Formation Pilotes
--------------------
+-----------------
 
 - Formation APPI Sylvain
 - Pilotes biplaceurs hand'icare
-- Wanabee pilotes solo
+- Wannabe pilotes solo
+
 
 
 

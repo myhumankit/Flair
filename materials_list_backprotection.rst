@@ -2,8 +2,11 @@
     :width: 40%
     :align: right 
 
+https://www.outilworld.fr/
+
 - 4 plaques de support (percées, soudées)
 
+  - https://www.outilworld.fr/fr/support-de-montage/555-support-universel-nr20.html
   - H 70
   - L 35
   - E 2
