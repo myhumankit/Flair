@@ -10,8 +10,8 @@ Support cale pieds / protection avant
 
 - Cette pièce sera le support de la protection thermique (genre cocon néoprène ou tissu)
 
-- Cette pièce empèchera la bascule avant de l'ensemble et devra glisser au sol, tout en permettant de parer un choc éventuel
+- Cette pièce empêchera la bascule avant de l'ensemble roulant et devra glisser au sol, tout en permettant de parer un choc éventuel
   entre les pieds et un caillou saillant ou autre obstacle (plaque de support de pieds rigide)
 
-- Cette pièce devra pouvoir être réglable en longueur et en inclinaison afin de s'adapter à différents gabarits d'humanoides
+- Cette pièce devrait pouvoir être réglable en longueur et en inclinaison afin de s'adapter à différents gabarits d'humanoides (M/XL)
 

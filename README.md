@@ -133,33 +133,33 @@ Pointeurs vers la dernière version stable, et les archives versionnées
 Serious people
 ---------------
 
-- Sylvain [han-vol.org](http://han-vol.org) & Mathieu [fauteuil-volant.fr](http://fauteuil-volant.fr)
-- Pat - [Cabane prechée](http://cabane-perchee-peycassou.org)
-- John - [My Human Kit](http://myhumankit.org)
-- Vaibhav - [Makers asylum Mumbai](https://www.makersasylum.com) -
-[STEAM Fabrikarium](https://steam.makersasylum.com/fabrikarium)
 - Avi - [Temple Pilots](http://www.templepilots.com)
-- Flairouze team
-  - Patrick
-  - Vincent
-  - Greg
-- Thomas - [Unik System](https://uniksystemes.com) & crew
 - Christophe - Airbus ProtoSpace
-- Hackaday.io
+- Flairouze team (Patrick / Vincent / Greg)
+- John - [My Human Kit](http://myhumankit.org)
+- Mathieu [fauteuil-volant.fr](http://fauteuil-volant.fr)
+- Pat - [Cabane prechée](http://cabane-perchee-peycassou.org)
+- [STEAM Fabrikarium](https://steam.makersasylum.com/fabrikarium)
+- Sylvain [han-vol.org](http://han-vol.org)
+- Thomas - [Unik System](https://uniksystemes.com) & crew
+- Vaibhav - [Makers asylum Mumbai](https://www.makersasylum.com)
+
 - Base ULM de Cabanac
 - Dune du Pyla
-- Serge - TraceS Moovly
+- Hackaday.io
 - La petite Rennes
 - La Maison du Vélo
+- Serge - TraceS Moovly
+- ? Advance
 - ? BGD
 - ? Nervures
-- ? Advance
 - ? Univ Rennes 1
 - ? add yourself here
 
 
 Nous rejoindre 
----------------
+--------------
+
 - OpenLab - My Human Kit
 - STEAM Fabrikarium & Fairs
 - Coupe Icare 2019 ?
@@ -168,8 +168,7 @@ Nous rejoindre
 R&D
 ---
 
-- Sellette 
-  - point d'accroche en doublon pour centrage attache sellette châssis
+- Sellette
   - ajout de fentes cousues pour passage sanglage additionnel
   - airbag actif
   - sellette cocon "safety Cloud"
@@ -193,6 +192,7 @@ acquises et les développements à venir.
   
 Kits
 ----
+
 - Mise à dispo d'une recette, d'un plan de châssis offrant un minimum
 de sécurité et de conceptions éprouvées.
 - Privilégier le mode DIWO/DIY - Do it, and Learn.
