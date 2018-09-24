@@ -158,7 +158,7 @@ Serious people
 
 
 Nous rejoindre 
---------------
+---------------
 
 - OpenLab - My Human Kit
 - STEAM Fabrikarium & Fairs
@@ -203,9 +203,4 @@ Formation Pilotes
 - Formation APPI Sylvain
 - Pilotes biplaceurs hand'icare
 - Wannabe pilotes solo
-
-
-
-
-
 

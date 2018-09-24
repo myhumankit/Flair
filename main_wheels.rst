@@ -35,6 +35,7 @@ L'efficacité du système tel qu'il est utilisé sur nos fauteuils de vol actuel
 
 
 .. image :: assets/img/suspension/small_wheel_1.png
+<<<<<<< HEAD
     :width: 40%
     :class: lightbox-sw
 
@@ -44,5 +45,16 @@ L'efficacité du système tel qu'il est utilisé sur nos fauteuils de vol actuel
 
 .. image :: assets/img/suspension/small_wheel_3.png
     :width: 40%
+=======
+    :width: 45%
+    :class: lightbox-sw
+
+.. image :: assets/img/suspension/small_wheel_2.png
+    :width: 45%
+    :class: lightbox-sw
+
+.. image :: assets/img/suspension/small_wheel_3.png
+    :width: 45%
+>>>>>>> 7f6192dd04aa6aa7ba124c812aaa42fab3a8a7cc
     :class: lightbox-sw
 
