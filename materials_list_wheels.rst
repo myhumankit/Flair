@@ -6,7 +6,7 @@
     - Freins a disque (option)
 
 - 2 roues arrières
-    - Petit diamètre, voir les roues de MountainBoard-
+    - Petit diamètre, voir les roues de MountainBoard
     - 9" - 230 x 65 - Roue complète 30 euros.
     - https://www.michaud-chailly.fr/fr/butee-aiguille-epaisse-serie-ax-l7-22
 

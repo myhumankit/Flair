@@ -115,15 +115,15 @@ Outils
 
 
 Instruction de montage
------------------------
+----------------------
 
 Pour la communauté des constructeurs
 
-Ici un pointeur vers la dernière version stable
+Pointeur vers la dernière version stable
 
 
 Manuel d'utilisation
----------------------
+--------------------
 
 Pour la communauté des usagers pilotes
 
@@ -192,7 +192,6 @@ acquises et les développements à venir.
   
 Kits
 ----
-
 - Mise à dispo d'une recette, d'un plan de châssis offrant un minimum
 de sécurité et de conceptions éprouvées.
 - Privilégier le mode DIWO/DIY - Do it, and Learn.
@@ -203,9 +202,4 @@ Formation Pilotes
 - Formation APPI Sylvain
 - Pilotes biplaceurs hand'icare
 - Wannabe pilotes solo
-
-
-
-
-
 
