@@ -1,11 +1,11 @@
 FL'AIR - *A Flying Wheelchair Project*
 ======================================
 
-Ou, **Comment voler quand tu ne marche pas ?**
+Ou, **Comment voler quand tu ne marches pas ?**
 
 La bonne nouvelle c'est que divers moyens ont déjà été mis en œuvres
 depuis 1985 pour réaliser le rêve d'Icare, a moindre coût, alliant
-silence et simplicité : l **le Parapente** !
+silence et simplicité : **le Parapente** !
 
 Il se décline en différents modes:
 
@@ -27,7 +27,7 @@ tester le pilotage du parapente en toute sécurité.
 Et quelques passionnés ont développé différents types de fauteuils
 roulant permettant de décoller sans une paire de jambes en bon état !!
 
-Malheuresement, depuis ces premières initiatives, la recherche et les
+Malheureusement, depuis ces premières initiatives, la recherche et les
 développements semblent avoir un peu lâché du terrain.
 
 **MAIS**, la bonne nouvelle est que vous êtes en train de participer a
@@ -62,12 +62,12 @@ fauteuil roulant/volant.
 Partis pris
 -----------
 - Centré sur l'usager et la sécurité passive pour le ou les pilotes.
-- Confort (attente au sol, attéro vachage) - poste à cassette - Klaxon,
-'Honky' Mumbai represent ! - thermique (cocon chauffant ;)
+- Confort (attente au sol, attéro vachage) [ options poste à cassette - Klaxon,
+'Honky' Mumbai represent ! - thermique (cocon chauffant ;) ]
 - Réplicable et Modulaire pour faciliter l'évolution autonome des différentes
 parties
 - Châssis permettant d'assurer une sécurité passive maximum (soit en lui même,
-soit en permettant d'inclure des éléments de sécurité - airbag)
+soit en permettant d'inclure des éléments de sécurité du genre airbag)
 
 - Scenarii d'usage
   - Montagne (pente, brise / sans vent)
@@ -135,7 +135,7 @@ Serious people
 
 - Avi - [Temple Pilots](http://www.templepilots.com)
 - Christophe - Airbus ProtoSpace
-- Flairouze team (Patrick / Vincent / Greg)
+- Flairouze team (Patrick / Vincent / Greg / Ali)
 - John - [My Human Kit](http://myhumankit.org)
 - Mathieu [fauteuil-volant.fr](http://fauteuil-volant.fr)
 - Pat - [Cabane prechée](http://cabane-perchee-peycassou.org)
@@ -160,8 +160,8 @@ Serious people
 Nous rejoindre 
 ---------------
 
-- OpenLab - My Human Kit
-- STEAM Fabrikarium & Fairs
+- OpenLab - My Human Kit ?
+- STEAM Fabrikarium & Fairs ?
 - Coupe Icare 2019 ?
 - irc, liste de diff ?
 
@@ -185,7 +185,7 @@ R&D
 ------------------
 
 Nous sommes persuadés qu'il n'y a pas vraiment d'économie autre qu'une
-'ultra niche' autour de la conception, de la fabrication de châssis handi'care.
+"ultra niche" autour de la conception, de la fabrication de châssis handi'care.
 L'Open Source est un outil parfait pour capitaliser sur les expériences
 acquises et les développements à venir.
 
@@ -196,11 +196,3 @@ Kits
 - Mise à dispo d'une recette, d'un plan de châssis offrant un minimum
 de sécurité et de conceptions éprouvées.
 - Privilégier le mode DIWO/DIY - Do it, and Learn.
-
-Formation Pilotes
------------------
-
-- Formation APPI Sylvain
-- Pilotes biplaceurs hand'icare
-- Wannabe pilotes solo
-

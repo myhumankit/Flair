@@ -2,21 +2,13 @@
     :width: 40%
     :align: right 
 
-- 2 roues avant 20"
+- 2 roues bmx 20 pouces - 3372g (1686g x2) 
     - Freins a disque (option)
 
-- 2 roues arrières
-<<<<<<< HEAD
-    - Petit diamètre, voir les roues de MountainBoard-
-=======
-    - Petit diamètre, voir les roues de MountainBoard
->>>>>>> 7f6192dd04aa6aa7ba124c812aaa42fab3a8a7cc
-    - 9" - 230 x 65 - Roue complète 30 euros.
-    - https://www.michaud-chailly.fr/fr/butee-aiguille-epaisse-serie-ax-l7-22
+- 2 roues de MountainBoard - 9 pouces
+    - 250 x 50 - 845g - 25.13€ 
+    - https://www.bilboquetsport.com/fr/accessoires-pour-mountainboard/28179-roue-complete-9-pouces-pour-kheo-bazik-a-l-unite-8718469980888.html
 
-- **Nombres de Roues, poids**
+- Total poids : 5062g
 
-  - 2 Roues 20'
-  - 2 roues MountainBoard
-
-  - Total poids :   = XXg
+  

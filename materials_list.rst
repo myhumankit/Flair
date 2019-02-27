@@ -5,6 +5,12 @@ Liste de matériel
 ----------------------
 
 .. include:: materials_list_mainstructure.rst
+|
+|
+
+~ Roues
+-------
+.. include:: materials_list_wheels.rst
 
 |
 |
@@ -13,9 +19,3 @@ Liste de matériel
 ------------------------------
 .. include:: materials_list_backprotection.rst
 
-|
-|
-
-~ Roues
--------
-.. include:: materials_list_wheels.rst
