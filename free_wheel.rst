@@ -1,16 +1,14 @@
 La/les roue(s) directionnelles
 ==============================
 
-| *Une ou des roulettes de queue permet de donner une excellente mobilité à l'ensemble*
+| *L'utilisation d'une "roulette de queue" permet de donner une excellente mobilité à l'ensemble*
 
-- L'ensemble roue(s) arrière(s) devrait être sur un support qui s'enfichera dans un connecteur du châssis principal,
-  ceci afin de :
+- L'ensemble roue(s) arrière(s) pourrait être sur un support qui s'enficherait dans un connecteur du châssis principal, ce qui:
+    - faciliterai l'évolution de la pièce
+    - permetrai d'avoir une pièce avec une ou deux roues selon les pratiques
+    - permetrai l'utilisation de différents systèmes d'amortissement 
 
-  - permettre l'évolution de la pièce
-  - d'avoir une pièce avec une ou deux roues selon les pratiques
-  - permettre l'utilisation de différents systèmes d'amortissement 
+- L'ensemble doit être dimensionné et amorti afin de supporter un crash lié à un décrochage à faible hauteur
 
-- L'ensemble doit être dimensionné et amorti afin de supporter un crash lié à un décrochage à faible hauteur (genre max 2 mètres)
-
-- En cas de casse, la possibilité de déconnecter l'ensemble pour réparation ou remplacement est un atout indéniable
+- En cas de casse, la possibilité de déconnecter l'ensemble pour réparation ou remplacement serai un atout indéniable
 

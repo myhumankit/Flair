@@ -2,10 +2,10 @@ Faq - et pourquoi ... ?
 =======================
 
 ne pas faire un engin qui glisse au sol simplement
--------------------------------------------------------
+--------------------------------------------------
 + Parce qu'il faudrait tirer le poids du bonhomme ! Un truc qui glisse n'est pas vraiment commode pour aller sur un
-  décollage, revenir du lieu d'atterrissage vers, et plus simplement n'importe quel déplacement au sol qui dépace
-  quelques mètres, sur sol irrégulier (ce qui est le cas  quasiment partout, sauf dune de sable ou terrain d'aviation)
+  décollage, revenir du lieu d'atterrissage vers les véhicules.  
+  Et plus simplement n'importe quel déplacement au sol qui dépasse quelques mètres sur sol irrégulier (ce qui est le cas  quasiment partout, sauf dune de sable ou terrain d'aviation)
   devient une vrai galère...
 + Parce qu'il faut prendre de la vitesse rapidement pour décoller (montagne, décollage avec peu de vent/brise)
 
@@ -27,5 +27,5 @@ l'ou décolle et atterri au même endroit*
 + (Montagne - Vol Solo / Apprentissage / Ecole) Le pousseur doit s'arrêter ds une pente  ! Il ne dois pas avoir en plus
   à s'occuper d'un bazar qui file devant lui et l'entrainera ds la pente
 + Si les roues restent sur place, quelqu'un doit s'en charger, les ramener à l'attéro ? Manips, manutention, transport, ...
-+ Pas de roues à l'atterrissage pour déplacer le fauteuil
++ Pas de roues à l'atterrissage pour poser, puis pour déplacer le fauteuil
 

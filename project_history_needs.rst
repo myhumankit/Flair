@@ -22,6 +22,7 @@ Le projet - besoins & exigences
 - La version de base du châssis du fauteuil doit pouvoir être réplicable avec des moyens "basiques" (*soudure, cintrage, visserie*)
 
   + Essayer de faire des pièces simples et efficaces 
+<<<<<<< HEAD
   + Essayer d'utiliser des pièces ou solutions déjà existantes et disponibles sur le marché (collier de serrage, douille de fourche, ...)
 =======
 - La version de base du châssis du fauteuil doit être reproductible avec des moyens "basiques" (*soudure, cintrage, visserie*)
@@ -29,6 +30,9 @@ Le projet - besoins & exigences
   + Essayer de faire des pièces simples et efficaces (*ce qui n'est pas forcément le plus simple*)
   + Utiliser des pièces ou solutions déjà existantes et disponibles sur le marché (collier de serrage, douille de fourche, ...)
 >>>>>>> d2d13ca08abedfba5b3c35523909090e4d04b315
+=======
+  + Essayer d'utiliser des pièces ou solutions déjà existantes et disponibles sur le marché (collier de serrage, douille de direction, ...)
+>>>>>>> develop
 
 - Le fauteuil doit être le moins encombrant possible (*en vol et au sol*) - Compromis entre ...
 
@@ -68,8 +72,8 @@ Le projet - besoins & exigences
 - Le fauteuil sera régulièrement utilisé sur des terrains de montagne (*mais pas que*), souvent assez loin de moyens /
   compétences technologiques
 
-  + Cela implique du matériel robuste. Des pièces subissant de fortes contraintes et casse éventuelles doivent pouvoir être réparées 
-  avec des moyens basiques *(poste à soudure dans un garage mécanique auto par ex.)*
+  + Cela implique du matériel robuste. Des pièces subissant de fortes contraintes et casse éventuelles devraient pouvoir être réparées 
+    avec des moyens basiques *(poste à soudure dans un garage mécanique auto par ex.)*
   + Prévoir des fusibles pour ces pièces si besoin.
   + Sécuriser les pièces qui pourraient se décrocher et tomber du ciel *(genre roue folle)*
   + ...
@@ -83,7 +87,7 @@ Le projet - besoins & exigences
   + Sécuriser les pièces qui pourraient se décrocher et tomber du ciel *(genre roue folle)*
 >>>>>>> d2d13ca08abedfba5b3c35523909090e4d04b315
 
-**A la conception **
+**A la conception**
 
 - Un châssis modulaire permettrai de faire évoluer les groupes de pièces de manière indépendantes
   

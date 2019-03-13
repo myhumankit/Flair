@@ -20,11 +20,12 @@ sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
 project = 'FLAIR'
-copyright = '2018, MHK'
-author = 'JL-MP'
+copyright = '2019 YAKAFLY & MHK'
+author = 'MP-JL'
 
 # The short X.Y version
-version = ''
+version = '0.1'
+
 # The full version, including alpha/beta/rc tags
 release = ''
 
@@ -131,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'flair.tex', 'flair Documentation', 'MHK', 'manual'),
+    (master_doc, 'flair.tex', 'flair Documentation', 'YAKAFLY', 'MHK','manual'),
 ]
 
 
@@ -150,7 +151,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'flair', 'flair Documentation', 'MHK', 'flair', 'A Flying Wheelchair.', 'Sports / Disabled'),
+    (master_doc, 'flair', 'flair Documentation', 'YAKAFLY', 'MHK', 'flair', 'A Flying Wheelchair.', 'Sports / Disabled'),
 ]
 
 
