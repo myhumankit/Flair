@@ -195,14 +195,3 @@ Kits
 - Mise à dispo d'une recette, d'un plan de châssis offrant un minimum
 de sécurité et de conceptions éprouvées.
 - Privilégier le mode DIWO/DIY - Do it, and Learn.
-<<<<<<< HEAD
-
-Formation Pilotes
------------------
-
-- Formation APPI Sylvain
-- Pilotes biplaceurs hand'icare
-- Wannabe pilotes solo
-
-=======
->>>>>>> develop

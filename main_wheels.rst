@@ -27,19 +27,3 @@ L'efficacité du système tel qu'il est utilisé sur nos fauteuils de vol actuel
 | *Ceci permet d'utiliser différents types de roues et de diamètres différents.*
 | *L'efficacité du système ne dépends plus du rayon de la roue*
 
-
-<<<<<<< HEAD
-.. image :: assets/img/suspension/small_wheel_1.png
-    :width: 45%
-    :class: lightbox-sw
-
-.. image :: assets/img/suspension/small_wheel_2.png
-    :width: 45%
-    :class: lightbox-sw
-
-.. image :: assets/img/suspension/small_wheel_3.png
-    :width: 45%
-    :class: lightbox-sw
-
-=======
->>>>>>> develop
